@@ -50,7 +50,16 @@ All analysed sequence data originated from public resources. Durable accession i
 
 ## Citation
 
-A machine-readable citation is provided in `CITATION.cff`. A Zenodo DOI will be added after the first archived public release.
+A machine-readable citation is provided in `CITATION.cff`.
+
+**Archived release (v1.0.0):**  
+Osatoyinbo, O. (2026). *Reproducibility materials accompanying "Beyond resistance-gene calling: a provenance-aware case study of ciprofloxacin genotype–phenotype discordance in African Escherichia coli" (Version 1.0.0)* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22644406
+
+**Version-specific DOI:** https://doi.org/10.5281/zenodo.22644406
+
+**All-versions DOI:** https://doi.org/10.5281/zenodo.22644405
+
+The archived Zenodo v1.0.0 dataset corresponds to Git tag `v1.0.0`.
 
 ## Licence
 

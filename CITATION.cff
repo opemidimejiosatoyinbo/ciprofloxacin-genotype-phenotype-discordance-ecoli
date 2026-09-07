@@ -1,12 +1,15 @@
 cff-version: 1.2.0
 message: "If you use these materials, please cite this repository and the accompanying study."
 type: dataset
-title: "Reproducibility materials for Beyond resistance-gene calling: a provenance-aware case study of ciprofloxacin genotype–phenotype discordance in African Escherichia coli"
+title: 'Reproducibility materials accompanying "Beyond resistance-gene calling: a provenance-aware case study of ciprofloxacin genotype–phenotype discordance in African Escherichia coli"'
 authors:
   - family-names: "Osatoyinbo"
     given-names: "Opemidimeji"
     orcid: "https://orcid.org/0009-0005-4431-3249"
 version: "1.0.0"
+doi: "10.5281/zenodo.22644406"
+date-released: 2026-09-07
+url: "https://doi.org/10.5281/zenodo.22644406"
 license: "CC-BY-4.0"
 keywords:
   - antimicrobial resistance
