@@ -1,0 +1,9 @@
+# Table 3. System-specific external denominators and technical missingness
+
+| Analysis | Nominal panel n | Technically evaluable n | Positive n | Negative under frozen assay n | Technical missingness n | Technical missingness isolate(s) | Required reporting |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pilot6_ompF_exact_ID005_allele_recurrence | 6 | 5 | 0 | 5 | 1 | CIP06 | 0/5 callable; CIP06 technically unresolved |
+| Pilot6_ompF_full_four_site_haplotype | 6 | 5 | 0 | 5 | 1 | CIP06 | 0/5 resolved; CIP06 technically unresolved |
+| Pilot6_qnrB_raw_read_signal | 6 | 2 | 0 | 2 | 4 | CIP02;CIP03;CIP04;CIP05 | 0/2 technically evaluable under frozen thresholds; CIP02-CIP05 technically unavailable |
+
+**Note.** Technical unavailability or technical unresolution is reported separately from a biological negative.

@@ -1,0 +1,35 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Raw / heavy sequence-analysis files are not part of this repository.
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fa
+*.fna
+*.faa
+*.bam
+*.sam
+*.cram
+*.sra
+*.vcf
+*.vcf.gz
+*.bcf
+
+# Local analytical interiors.
+Data/
+Results/
+
+# Credentials and machine-local files.
+.env
+.env.*
+*.pem
+*.key

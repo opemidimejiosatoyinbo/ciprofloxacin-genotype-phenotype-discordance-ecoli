@@ -1,0 +1,45 @@
+Paper 1 ID005 manuscript evidence pack v1
+
+This evidence pack is a documentary derivative of the fully frozen
+ID005 bounded case-study reporting registry and external-context
+integration.
+
+No new biological analysis is performed.
+
+No FASTA, FASTQ, SAM, BAM, VCF or other new sequence evidence is opened.
+
+The retained candidate inventory remains five sequence-level items in
+two systems: four ompF-region noncoding substitutions and one qnrB
+raw-read locus.
+
+The manuscript-facing ompF recurrence denominator is five technically
+resolved external CIP-R isolates.
+
+No exact ID005 allele recurred at any of the four frozen ompF sites in
+those five isolates.
+
+CIP06 remains technically unresolved and is not a biological negative.
+
+The manuscript-facing qnrB denominator is two technically evaluable
+external CIP-R isolates, CIP01 and CIP06.
+
+Neither produced a qnrB signal under the frozen thresholds.
+
+CIP02 through CIP05 remain technically unavailable and are not
+biological qnrB negatives.
+
+The external Pilot6 panel is CIP-R only and supports descriptive
+recurrence context, not resistant-versus-susceptible association.
+
+Target-side candidate retention remains unchanged after external
+contextualization.
+
+No cross-system causal ranking, functional effect, expression effect,
+plasmid or mobility inference, association test or ciprofloxacin
+causality is introduced.
+
+The case-study biological analysis remains bounded complete.
+
+The outputs generated here are intended only to support manuscript
+tables, figures and Results drafting from the provenance-locked evidence
+base.

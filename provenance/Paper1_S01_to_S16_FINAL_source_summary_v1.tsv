@@ -1,0 +1,17 @@
+Supplement	Title	Selected_Source_Count	Primary_Count	Methods_Count	Support_Count	Failed_History_Count	Status
+S01	Dataset and isolate provenance	5	4	0	1	0	FINAL_SOURCE_SET_FROZEN
+S02	Software, database and reference register	5	1	2	2	0	FINAL_SOURCE_SET_FROZEN
+S03	Known quinolone determinant and QRDR audit	3	2	0	1	0	FINAL_SOURCE_SET_FROZEN
+S04	Thirteen-gene coding audit	5	3	0	2	0	FINAL_SOURCE_SET_FROZEN
+S05	Five-unit noncoding regulatory audit	2	1	0	1	0	FINAL_SOURCE_SET_FROZEN
+S06	Eight-unit structural and insertion-sequence audit	3	1	1	1	0	FINAL_SOURCE_SET_FROZEN
+S07	Raw-read QC and mapping metrics	5	2	2	1	0	FINAL_SOURCE_SET_FROZEN
+S08	Thirteen-gene copy-number screen	4	2	1	1	0	FINAL_SOURCE_SET_FROZEN
+S09	Forty-two-object minor-allele screen	3	2	1	0	0	FINAL_SOURCE_SET_FROZEN
+S10	Acquired quinolone raw-read audit	7	4	3	0	0	FINAL_SOURCE_SET_FROZEN
+S11	External cohort architecture and input provenance	5	4	0	1	0	FINAL_SOURCE_SET_FROZEN
+S12	External ompF contextualization	5	4	0	1	0	FINAL_SOURCE_SET_FROZEN
+S13	External qnrB contextualization	5	3	0	2	0	FINAL_SOURCE_SET_FROZEN
+S14	Claim, denominator and missingness registry	6	5	1	0	0	FINAL_SOURCE_SET_FROZEN
+S15	Reproducibility and provenance ledger	8	5	0	0	3	FINAL_SOURCE_SET_FROZEN
+S16	Extended methods and frozen gate definitions	9	0	9	0	0	FINAL_SOURCE_SET_FROZEN

@@ -1,0 +1,9 @@
+Artifact	Artifact_Type	Purpose	Biological_Analysis_Performed
+Table1_ID005_retained_candidate_systems_v1.tsv	MANUSCRIPT_TABLE_DATA	Retained candidate systems and external context	NO
+Table2_ID005_ompF_site_context_v1.tsv	MANUSCRIPT_TABLE_DATA	Four frozen ompF sites and external contextualization	NO
+Table3_ID005_external_denominators_and_missingness_v1.tsv	MANUSCRIPT_TABLE_DATA	System-specific denominators and technical missingness	NO
+Table4_ID005_case_study_limitations_v1.tsv	MANUSCRIPT_TABLE_DATA	Frozen limitations registry	NO
+Figure1_ID005_bounded_case_study_flow_data_v1.tsv	FIGURE_READY_DATA	Bounded ID005 case-study workflow schematic	NO
+Figure2_ID005_external_candidate_context_data_v1.tsv	FIGURE_READY_DATA	System-specific external recurrence and missingness context	NO
+Paper1_ID005_manuscript_claim_registry_v1.tsv	CLAIM_REGISTRY	Permitted claims, required qualifiers and prohibited overstatements	NO
+Paper1_ID005_results_section_evidence_map_v1.tsv	RESULTS_SECTION_MAP	Maps manuscript Results blocks to frozen evidence	NO

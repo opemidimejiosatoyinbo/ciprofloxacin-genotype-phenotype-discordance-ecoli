@@ -1,0 +1,8 @@
+Component	Version_or_release	Role_in_Paper1	Evidence_status	Notes
+RGI	6.0.8	CARD Resistance Gene Identifier analysis	CONFIRMED_FROZEN	ID005 metadata and control-panel manifest agree
+CARD	4.0.2	Resistance database used by RGI	CONFIRMED_FROZEN	ID005 metadata and control-panel manifest agree
+Prodigal	2.6.3	Protein prediction for RGI protein-mode workaround	CONFIRMED_FROZEN	Documented in method-deviation record
+BLAST	RGI-managed	RGI protein alignment engine	CONFIRMED_FROZEN	RGI run metadata specifies Alignment tool: BLAST
+DIAMOND	2.2.6	Installed in humboldt_rgi environment; not the alignment engine used for the frozen RGI runs	CONTEXT_ONLY	Do not report as the RGI alignment engine
+AMRFinderPlus	4.2.7	Known AMR determinant screening	CONFIRMED_PREVIOUSLY	Database release recorded separately
+AMRFinderPlus_database	2026-08-07.1	AMRFinderPlus reference database	CONFIRMED_PREVIOUSLY	Frozen project metadata

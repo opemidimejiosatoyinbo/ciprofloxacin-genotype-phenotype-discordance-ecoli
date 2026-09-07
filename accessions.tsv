@@ -1,0 +1,9 @@
+Role	Alias	Isolate	Country	CIP_phenotype	BioProject	BioSample	Run	Assembly	WGS_master	ompF_external_status	qnrB_external_status	Notes
+Focal	ID005	ID005	Tanzania	R	PRJNA840888	SAMN28590661	SRR19349300	GCA_032185545.1		not_applicable	not_applicable	Focal ciprofloxacin-resistant discordant isolate
+Comparator	ID003	ID003	Tanzania	S	PRJNA840888	SAMN28580521	SRR19349003	GCA_032185525.1		not_applicable	not_applicable	Close-background susceptible comparator; not an exact clonal control
+External	CIP01	OAU-AAA-018a	Nigeria	R	NA	SAMEA6155699	ERR4783067	NA		callable	evaluable_no_signal	Local SPAdes assembly from ERR4783067 used for the frozen ompF contextualisation
+External	CIP02	Me20	Egypt	R	PRJNA1208035	SAMN46163129	NA	GCA_050489365.1	JBKQDE000000000	callable	technically_unavailable	No eligible paired SRA record resolved for frozen qnrB assay
+External	CIP03	Me26	Egypt	R	PRJNA1208035	SAMN46163133	NA	GCA_050489285.1	JBKQDI000000000	callable	technically_unavailable	No eligible paired SRA record resolved for frozen qnrB assay
+External	CIP04	Me34A	Egypt	R	PRJNA1208035	SAMN46163140	NA	GCA_050489145.1	JBKQDP000000000	callable	technically_unavailable	No eligible paired SRA record resolved for frozen qnrB assay
+External	CIP05	Me35B	Egypt	R	PRJNA1208035	SAMN46163141	NA	GCA_050489115.1	JBKQDQ000000000	callable	technically_unavailable	No eligible paired SRA record resolved for frozen qnrB assay
+External	CIP06	Me82	Egypt	R	PRJNA1208035	SAMN46163168	SRR39261344	GCA_050488505.1	JBKQER000000000	technically_unresolved	evaluable_no_signal	Single eligible paired Illumina run prospectively resolved and checksum-verified for qnrB contextualisation

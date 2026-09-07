@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1580" viewBox="0 0 1200 1580">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111827}.title{font-size:32px;font-weight:700}.sub{font-size:24px}.arrow{stroke:#374151;stroke-width:5;fill:none}.box{fill:#F8FAFC;stroke:#4B5563;stroke-width:3}</style>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#374151"/></marker></defs>
+<rect class="box" x="120" y="90" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="142" text-anchor="middle" class="title">Phenotypic discordance</text>
+<text x="600.0" y="170" text-anchor="middle" class="sub">ID005: ciprofloxacin resistant without an adequate canonical genomic</text>
+<text x="600.0" y="202" text-anchor="middle" class="sub">explanation</text>
+<line class="arrow" x1="600.0" y1="248" x2="600.0" y2="293" marker-end="url(#arrow)"/>
+<rect class="box" x="120" y="305" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="357" text-anchor="middle" class="title">Canonical quinolone audit</text>
+<text x="600.0" y="385" text-anchor="middle" class="sub">Acquired determinants and recognised QRDR mutations reviewed; no explanatory</text>
+<text x="600.0" y="417" text-anchor="middle" class="sub">candidate retained</text>
+<line class="arrow" x1="600.0" y1="463" x2="600.0" y2="508" marker-end="url(#arrow)"/>
+<rect class="box" x="120" y="520" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="572" text-anchor="middle" class="title">Comparator-aware sequence audit</text>
+<text x="600.0" y="600" text-anchor="middle" class="sub">13 coding proteins, five noncoding units and eight proximal structural</text>
+<text x="600.0" y="632" text-anchor="middle" class="sub">contexts</text>
+<line class="arrow" x1="600.0" y1="678" x2="600.0" y2="723" marker-end="url(#arrow)"/>
+<rect class="box" x="120" y="735" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="787" text-anchor="middle" class="title">Raw-read residual audit</text>
+<text x="600.0" y="815" text-anchor="middle" class="sub">Copy number, 42-object minor-allele screen and acquired-quinolone family</text>
+<text x="600.0" y="847" text-anchor="middle" class="sub">interrogation</text>
+<line class="arrow" x1="600.0" y1="893" x2="600.0" y2="938" marker-end="url(#arrow)"/>
+<rect class="box" x="120" y="950" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="1002" text-anchor="middle" class="title">Frozen residual inventory</text>
+<text x="600.0" y="1030" text-anchor="middle" class="sub">Five sequence-level items: four ompF-region substitutions and one qnrB</text>
+<text x="600.0" y="1062" text-anchor="middle" class="sub">raw-read locus</text>
+<line class="arrow" x1="600.0" y1="1108" x2="600.0" y2="1153" marker-end="url(#arrow)"/>
+<rect class="box" x="120" y="1165" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="1217" text-anchor="middle" class="title">External contextualisation</text>
+<text x="600.0" y="1245" text-anchor="middle" class="sub">ompF: 0/5 exact ID005-site recurrence; qnrB: 0/2 signal; technical missingness</text>
+<text x="600.0" y="1277" text-anchor="middle" class="sub">preserved</text>
+<line class="arrow" x1="600.0" y1="1323" x2="600.0" y2="1368" marker-end="url(#arrow)"/>
+<rect class="box" x="120" y="1380" rx="22" ry="22" width="960" height="150"/>
+<text x="600.0" y="1432" text-anchor="middle" class="title">Bounded endpoint</text>
+<text x="600.0" y="1460" text-anchor="middle" class="sub">Candidate retention unchanged; no causal ranking; ciprofloxacin-resistance</text>
+<text x="600.0" y="1492" text-anchor="middle" class="sub">mechanism unresolved</text>
+</svg>

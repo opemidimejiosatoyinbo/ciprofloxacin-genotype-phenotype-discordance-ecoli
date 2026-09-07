@@ -1,0 +1,8 @@
+Limitation_ID	Limitation	Consequence
+LIM001	External Pilot6 panel contains only CIP-R isolates.	Cannot estimate resistant-versus-susceptible association or specificity.
+LIM002	CIP06 ompF locus was technically unresolved.	ompF recurrence denominator is five callable isolates, not six biological negatives.
+LIM003	CIP02-CIP05 lacked technically evaluable paired raw-read inputs for qnrB contextualization.	qnrB recurrence denominator is two technically evaluable isolates.
+LIM004	ID005 qnrB genomic linkage remains unresolved.	Cannot assign genomic location, plasmid context, insertion site, mobility or final isolate genomic presence.
+LIM005	Sequence-only design cannot resolve expression-dependent effects.	Efflux/porin regulatory mechanisms requiring expression evidence remain unresolved.
+LIM006	Phenotype uncertainty is retained.	Residual genotype-phenotype discordance must be interpreted with AST/data-quality uncertainty.
+LIM007	Pilot cohort is small and descriptive.	No formal association, predictive-performance or causal inference is supported.
