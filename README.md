@@ -2,7 +2,7 @@
 
 This repository accompanies the study:
 
-**Beyond resistance-gene calling: a provenance-aware case study of ciprofloxacin genotype–phenotype discordance in African Escherichia coli**
+**Beyond resistance-gene calling: a provenance-aware case study of ciprofloxacin genotype–phenotype discordance in African *Escherichia coli***
 
 **Author:** Opemidimeji Osatoyinbo  
 **Affiliation:** Department of Microbiology, Faculty of Life Sciences, University of Ilorin, Ilorin, Nigeria  
